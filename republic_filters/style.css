@@ -1,0 +1,72 @@
+* {
+
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+}
+
+h1 {
+
+    background-color: gold;
+    color: white;
+    border: 2px solid white;
+    width: fit-content;
+}
+
+h2 {
+
+    background-color: green;
+    border: 2px solid white;
+    width: fit-content;
+}
+
+p#one {
+
+    background-color: purple;
+    border: 2px solid white;
+    width: fit-content;
+
+}
+
+input {
+
+    background-image: linear-gradient( to right, black, rgb( 37, 37, 37 ) );
+}
+
+input#botaoEnviar {
+
+    background-image: linear-gradient( to right, black, blue );
+}
+
+input#botaoLimpar {
+
+    background-image: linear-gradient( to right, black, red );
+}
+
+label {
+
+    background-color: orange;
+    font-weight: bold;
+    border: 2px solid white;
+
+}
+
+textarea#inputComment {
+
+    background-image: linear-gradient( to right, black, rgb( 37, 37, 37 ) );
+
+}
+
+em, li {
+
+    background-color: white;
+    color: black;
+    width: fit-content;
+}
+
+b#not {
+
+    background-color: red;
+    border: 2px solid white;
+    width: fit-content;
+}
