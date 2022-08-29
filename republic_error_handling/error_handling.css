@@ -1,0 +1,35 @@
+body {
+
+    background-image: linear-gradient( to right, rgb( 47, 47, 47), rgb( 0, 0, 0 ) );
+    font-family: sans-serif;
+    color: white;
+
+}
+
+h1#error_h1 {
+
+    font-family: serif;
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+p#error_message {
+
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+    width: fit-content;
+
+}
+
+p#success_message {
+
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+    width: fit-content;
+    
+}

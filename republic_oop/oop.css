@@ -1,0 +1,24 @@
+body {
+
+    background-image: linear-gradient( to right, rgb( 47, 47, 47 ), rgb( 0, 0, 0 ) );
+    color: white;
+    font-family: sans-serif;
+
+}
+
+h1#php_title {
+
+    font-family: serif;
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+p#info {
+
+    background-color: blue;
+    border: 2px solid white;
+    border-color: white;
+    width: fit-content;
+
+}
